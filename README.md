@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m an **undergraduate** student of **MIT'29**.
-- 🌱 I’m interested in Artificial Intelligence, including Reinforcement Learning and Deep Learning (especially generative models). Also, I'm passionate about developing everything!
+- 🔭 I’m an **undergraduate** student of **MIT class of 2029**. I'm currently working with [Kaiming He](https://people.csail.mit.edu/kaiming/) on visual generative modeling.
+- 🌱 I'm passionate about developing everything!
 - 👯 I’m looking forward to have academic discussions with like-minded friends!
 - 📫 How to reach me: via email kevinxbwang@gmail.com or xbwang@mit.edu.
 - 😄 Pronouns: he/him
